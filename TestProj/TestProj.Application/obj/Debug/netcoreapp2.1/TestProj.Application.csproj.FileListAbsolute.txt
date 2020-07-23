@@ -1,0 +1,8 @@
+C:\Xux\TestProj\TestProj\TestProj.Application\bin\Debug\netcoreapp2.1\TestProj.Application.deps.json
+C:\Xux\TestProj\TestProj\TestProj.Application\bin\Debug\netcoreapp2.1\TestProj.Application.dll
+C:\Xux\TestProj\TestProj\TestProj.Application\bin\Debug\netcoreapp2.1\TestProj.Application.pdb
+C:\Xux\TestProj\TestProj\TestProj.Application\obj\Debug\netcoreapp2.1\TestProj.Application.csproj.CoreCompileInputs.cache
+C:\Xux\TestProj\TestProj\TestProj.Application\obj\Debug\netcoreapp2.1\TestProj.Application.AssemblyInfoInputs.cache
+C:\Xux\TestProj\TestProj\TestProj.Application\obj\Debug\netcoreapp2.1\TestProj.Application.AssemblyInfo.cs
+C:\Xux\TestProj\TestProj\TestProj.Application\obj\Debug\netcoreapp2.1\TestProj.Application.dll
+C:\Xux\TestProj\TestProj\TestProj.Application\obj\Debug\netcoreapp2.1\TestProj.Application.pdb

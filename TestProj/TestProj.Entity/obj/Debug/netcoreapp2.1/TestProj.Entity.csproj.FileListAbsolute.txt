@@ -1,0 +1,9 @@
+C:\Xux\TestProj\TestProj\TestProj.Entity\bin\Debug\netcoreapp2.1\TestProj.Entity.deps.json
+C:\Xux\TestProj\TestProj\TestProj.Entity\bin\Debug\netcoreapp2.1\TestProj.Entity.dll
+C:\Xux\TestProj\TestProj\TestProj.Entity\bin\Debug\netcoreapp2.1\TestProj.Entity.pdb
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.csprojAssemblyReference.cache
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.csproj.CoreCompileInputs.cache
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.AssemblyInfoInputs.cache
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.AssemblyInfo.cs
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.dll
+C:\Xux\TestProj\TestProj\TestProj.Entity\obj\Debug\netcoreapp2.1\TestProj.Entity.pdb

@@ -1,0 +1,14 @@
+C:\Xux\TestProj\TestProj\TestProj\bin\Debug\netcoreapp2.1\TestProj.WebApi.deps.json
+C:\Xux\TestProj\TestProj\TestProj\bin\Debug\netcoreapp2.1\TestProj.WebApi.runtimeconfig.json
+C:\Xux\TestProj\TestProj\TestProj\bin\Debug\netcoreapp2.1\TestProj.WebApi.runtimeconfig.dev.json
+C:\Xux\TestProj\TestProj\TestProj\bin\Debug\netcoreapp2.1\TestProj.WebApi.dll
+C:\Xux\TestProj\TestProj\TestProj\bin\Debug\netcoreapp2.1\TestProj.WebApi.pdb
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.csproj.CoreCompileInputs.cache
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.RazorAssemblyInfo.cache
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.RazorAssemblyInfo.cs
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.AssemblyInfoInputs.cache
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.AssemblyInfo.cs
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.RazorTargetAssemblyInfo.cache
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.dll
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.pdb
+C:\Xux\TestProj\TestProj\TestProj\obj\Debug\netcoreapp2.1\TestProj.WebApi.csprojAssemblyReference.cache
